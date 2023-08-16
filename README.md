@@ -1,8 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
 
- <br />
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I Studied CS at HUJI &nbsp;&nbsp;💻
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studied CS at HUJI &nbsp;&nbsp;💻
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm really into Machine learning &nbsp;&nbsp;🤖, &nbsp;&nbsp;Computer vision &nbsp;&nbsp;👀 &nbsp;&nbsp;and Algo-trading &nbsp;&nbsp;📈
 # <p align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaf-shul-318a9421a)</p>
