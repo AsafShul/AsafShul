@@ -11,6 +11,9 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Publications:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⋅ "Distilling Datasets Into Less Than One Image" -  <a href="https://arxiv.org/abs/2403.12040">Arxiv</a>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⋅ "On the Origin of Llamas: Model Tree Heritage Recovery" -  <a href="https://arxiv.org/abs/2405.18432">Arxiv</a>
+
 
 # <p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaf-shul-318a9421a)</p>
  
